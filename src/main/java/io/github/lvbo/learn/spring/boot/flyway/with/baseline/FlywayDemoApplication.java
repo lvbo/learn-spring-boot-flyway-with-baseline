@@ -1,4 +1,4 @@
-package com.lvbo.learn.spring.boot.flyway.with.baseline;
+package io.github.lvbo.learn.spring.boot.flyway.with.baseline;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
