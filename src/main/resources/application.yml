@@ -15,7 +15,7 @@ spring:
     cache: true
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
-    url: jdbc:mysql://127.0.0.1:3306/flyway_test?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&useSSL=false
+    url: jdbc:mysql://127.0.0.1:3306/flyway_with_baseline_test?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&useSSL=false
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
     password: mysql
